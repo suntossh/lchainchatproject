@@ -1,0 +1,325 @@
+    1  pwd
+    2  java -version
+    3  pwd
+    4  cd /Library/Java/JavaVirtualMachines/
+    5  pwd
+    6  ls
+    7  cd jdk1.8.0_241.jdk/
+    8  pwd
+    9  ls
+   10  cd Contents/
+   11  ls
+   12  cd Home/
+   13  pwd
+   14  export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home
+   15  cls
+   16  clear
+   17  pwd
+   18  JAVA_HOME
+   19  java
+   20  java -version
+   21  pwd
+   22  cd /Library/
+   23  java -version
+   24  java
+   25  javac
+   26  pwd
+   27  pwd
+   28  cd ..
+   29  pwd
+   30  ls
+   31  cd Users/
+   32  ls
+   33  cd santoshkumarpandey/
+   34  ls
+   35  cd Documents/
+   36  ls
+   37  cd workspace/
+   38  ls
+   39  ls -la
+   40  ls
+   41  ls
+   42  la
+   43  ls -ltr
+   44  ls -lrt
+   45  ls -la
+   46  curl --user {YOUR_CLIENT_ID}:{YOUR_CLIENT_SECRET} https://www.udemy.com/api-2.0/courses
+   47  curl --user Vz9JwU3k7jLmHWQ4JRJqyveCwpQJQoRuICwChYrx:YH8FKye9jvUbkardQrZnxbLj3b6HGIEhxyquQ97PXdjZDsdKGfG5gRz9DtpskaWtm8sEtAhqOFCewbVEocxDwOzJaLk3DBBXsAjznHnrPyDiODRg4rETxz3m2Uyt8fQE https://www.udemy.com/api-2.0/courses
+   48  clear
+   49  curl --user Vz9JwU3k7jLmHWQ4JRJqyveCwpQJQoRuICwChYrx:YH8FKye9jvUbkardQrZnxbLj3b6HGIEhxyquQ97PXdjZDsdKGfG5gRz9DtpskaWtm8sEtAhqOFCewbVEocxDwOzJaLk3DBBXsAjznHnrPyDiODRg4rETxz3m2Uyt8fQE https://www.udemy.com/api-2.0/courses
+   50  ls
+   51  cd Documents/
+   52  ls
+   53  cd workspace/
+   54  ls
+   55  pwd
+   56  mvn clean install
+   57  /Applications/
+   58  cd /Applications/
+   59  ls
+   60  pwd
+   61  ls
+   62  cd ..
+   63  ls
+   64  ls Xcode*
+   65  sudo xcode-select -switch /Applications/Xcode13.app
+   66  ls Xcode*
+   67  sudo xcode-select -switch /Applications/Xcode13.app
+   68  sudo xcode-select -switch /Applications/Xcode13.app
+   69  xcode-select --install
+   70  Xcode13-select --install
+   71  brew config
+   72  /Users/santoshkumarpandey which java
+   73  ls
+   74  javac
+   75  $PATH
+   76  $JAVA_HOME
+   77  $JAVA
+   78  $classpath
+   79  where java
+   80  where javac
+   81  which javac
+   82  cd /usr/bin/
+   83  ls
+   84  ls | grep "java"
+   85  ls | grep "python"
+   86  ls | grep "mvn"
+   87  ls | grep "maven"
+   88  pwdd
+   89  pwd
+   90  echo %JAVA_HOME%
+   91  echo %JAVA_HOME
+   92  which java
+   93  ls /usr
+   94  cd /Users/santoshkumarpandey/workspace/DSA
+   95  C:
+   96  ls
+   97  cd ..
+   98  cd ..
+   99  pwd
+  100  ls
+  101  cd workspace/
+  102  ls
+  103  mkdir kunalkushwahaPractice
+  104  cd kunalkushwahaPractice/
+  105  echo "# KunalKushwahaDSABootCamp" >> README.md
+  106  pwd
+  107  ls
+  108  cat README.md 
+  109  git init
+  110  git add README.md
+  111  git commit -m "first commit"
+  112  git branch -M main
+  113  git remote add origin https://github.com/suntossh/KunalKushwahaDSABootCamp.git
+  114  git push -u origin main
+  115  git config user.name "suntossh"
+  116  git config user.name
+  117  python --version
+  118  python3 --version
+  119  pip
+  120  pip
+  121  pip
+  122  python
+  123  python3
+  124  python -m ensurepip --default-pip
+  125  python3 -m ensurepip --default-pip
+  126  pip list
+  127  pip3 list
+  128  ls -l `which pip`
+  129  ls -l `which pip3`
+  130  pip3 show pip
+  131  pip show pip
+  132  istory
+  133  history 
+  134  pip3
+  135  cls
+  136  clear
+  137  pip install
+  138  pip3 install
+  139  pip3 install langchain pypdf2 python-dotenv streamlit
+  140  pip3 install python-dotenv
+  141  /usr/local/opt/python@3.11/bin/python3.11 -m pip install --upgrade pip
+  142  /usr/local/bin/python3.12 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  143  python
+  144  python3
+  145  python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  146  python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  147  /usr/local/bin/python3.12 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  148  /usr/local/bin/python3.12 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  149  /usr/local/bin/python3.12 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  150  pip3
+  151  pip3 install python-dotenv
+  152  pip3 install python-dotenv
+  153  python -m pip install python-dotenv
+  154  python3 -m pip install python-dotenv
+  155  /usr/local/bin/python3 -m pip install --upgrade pip
+  156  python3 -m pip install python-dotenv
+  157  python3 -m pip3 install python-dotenv
+  158  pip3 install python-dotenv
+  159  pip install python-dotenv
+  160  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  161  eval "$(/usr/local/bin/brew shellenv)"
+  162  brew help
+  163  (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/santoshkumarpandey/.bash_profile
+  164  eval "$(/usr/local/bin/brew shellenv)"
+  165  python --version
+  166  pwd
+  167  brew install python
+  168  pyhton --version
+  169  python --version
+  170  python3 --version
+  171  brew install pyenv
+  172  pyenv --version
+  173  python3 --version
+  174  pyenv versions
+  175  pyenv install 3.6
+  176  hostory
+  177  history
+  178  history help
+  179  python
+  180  python3 --version
+  181  pyenv versions
+  182  pyenv install 3.8
+  183  pyenv versions
+  184  python
+  185  python3
+  186  pyenv versions
+  187  python3 --version
+  188  which pyhton
+  189  which python
+  190  which python3
+  191  which python
+  192  which python3
+  193  pyenv global 3.8
+  194  which python
+  195  pyenv versions
+  196  python3 --version
+  197  python --version
+  198  brew list | grep python
+  199  brew info python
+  200  which python
+  201  which python3
+  202  pyenv versions
+  203  pyenv versions
+  204  python --version
+  205  python3 --version
+  206  which python
+  207  which python3
+  208  pyenv local 3.8
+  209  pyenv versions
+  210  ls
+  211  python -m venv my-venv
+  212  python3 -m venv my-venv
+  213  ls
+  214  cd my-venv/
+  215  ls
+  216  source my-venv/bin/activate
+  217  cd ..
+  218  source my-venv/bin/activate
+  219  ls
+  220  which python
+  221  python
+  222  which python
+  223  which python3
+  224  python --verion
+  225  python --version
+  226  python3 --version
+  227  python
+  228  deactivate
+  229  python --version
+  230  python3 --version
+  231  brew install git
+  232  pip install jupyter
+  233  brew install jupyter
+  234  jupyter notebook
+  235  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  236  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  237  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  238  python3 -m pip3 install streamlit
+  239  python3 -m pip install streamlit
+  240  /usr/local/bin/python3
+  241  streamlit --version
+  242  streamlit --version
+  243  streamlit run app.py
+  244  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  245  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  246  history
+  247  python3 -m pip install PyPDF2
+  248  python3 -m pip3 install PyPDF2
+  249  python -m pip install PyPDF2
+  250  python3 -m pip install langchain
+  251  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  252  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  253  history
+  254  python3 -m pip install openai 
+  255  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  256  run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  257  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  258  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  259  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  260  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  261  python3 -m pip3 install openai
+  262  python3 -m pip install openai
+  263  python3 --version
+  264  python3 -m pip install openai
+  265  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  266  pip install openai
+  267  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  268  pip install tiktoken
+  269  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  270  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  271  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  272  /usr/local/bin/python3 /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  273  streamlit run /Users/santoshkumarpandey/workspace/LANGCHAIN-CHAT-PDF-TUTORIAL/app.py
+  274  python --V
+  275  python --version
+  276  pyenv version
+  277  pyenv versions
+  278  pyenv local 3.8
+  279  python --version
+  280  which python
+  281  python -m venv venv
+  282  which python
+  283  pwd
+  284  source venv/bin/activate
+  285  python --v
+  286  python -V
+  287  which python
+  288  which pip
+  289  git --version
+  290  pwd
+  291  git init
+  292  git status
+  293  git add *
+  294  git status
+  295  git add .
+  296  git status
+  297  git commit -m "Hari Bol : First Commit on AI Project"
+  298  pip install python-dotenv
+  299  history
+  300  history > history_InitalSetup.txt
+  301  which pip
+  302  which python
+  303  clear
+  304  I already have dotenv
+  305  Ihave package manager
+  306  pyenv versions
+  307  pip install streamlit
+  308  pip install pypdf2
+  309  pip install lagchain
+  310  pip install langchain
+  311  pip install python-dotenv
+  312  pip install fiass-cpu
+  313  pip install fAIss-cpu
+  314  pip install openai
+  315  pip install huggingface_hub
+  316  history > history_Post_InitalSetup.txt
+  317  cls
+  318  clear
+  319  git status
+  320  git add >
+  321  git add .
+  322  git status
+  323  history | grep git
+  324  git commit -m "Hari Bol : First Commit on AI Project"
+  325  history > history_FinalWorking_InitalSetup.txt
